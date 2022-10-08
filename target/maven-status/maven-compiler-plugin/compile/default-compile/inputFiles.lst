@@ -1,0 +1,9 @@
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\module-info.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\adaptador\AdaptadorContaFakeImp.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\casouso\porta\PortaTransferencia.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\dominio\modelo\Erro.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\dominio\modelo\Conta.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\dominio\servico\Transferencia.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\casouso\imp\PortaTransferenciaImp.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\dominio\modelo\NegocioException.java
+C:\Users\m_peu\Desktop\Arquitetura Hexagonal\arquitetura-hexagonal-java\4.fontes\sistema\src\main\java\conta\sistema\porta\ContaRepositorio.java
